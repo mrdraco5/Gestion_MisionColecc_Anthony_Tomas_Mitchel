@@ -1,0 +1,42 @@
+{
+   "coleccionables":[
+      {
+         "nombre":"Espada Maestra",
+         "rareza":"Legendaria",
+         "valor":2000,
+         "iconoId":"Iconos/espada_maestra"
+      },
+      {
+         "nombre":"Super Estrella",
+         "rareza":"Epica",
+         "valor":1000,
+         "iconoId":"Iconos/super_estrella"
+      },
+      {
+         "nombre":"PokeBall",
+         "rareza":"Especial",
+         "valor":500,
+         "iconoId":"Iconos/poke_ball"
+      }
+   ],
+   "misiones":[
+      {
+         "id":1,
+         "titulo":"Mision 1: Activar mecanismo",
+         "descripcion":"Presiona el boton 3 veces para activar el mecanismo",
+         "nombreColeccionable":"Espada Maestra"
+      },
+      {
+         "id":2,
+         "titulo":"Mision 2: Entrenamiento de combate",
+         "descripcion":"Golpea (da clic) al muñeco de practica",
+         "nombreColeccionable":"Super Estrella"
+      },
+      {
+         "id":3,
+         "titulo":"Mision 3: Invocar energia ancestral",
+         "descripcion":"Presiona la tecla E para invocar tu energia ancestral",
+         "nombreColeccionable":"PokeBall"
+      }
+   ]
+}
